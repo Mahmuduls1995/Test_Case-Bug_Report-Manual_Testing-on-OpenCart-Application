@@ -42,10 +42,12 @@ The green boxes represent passed test cases.
 
 The red boxes represent failed test cases.
 ```
-<img width="1565" alt="Open-Cart-MindMap" src="https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/tree/main/Mind%20Map"/>
+<img src="https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/tree/main/Mind%20Map" alt="GitHub Logo" width="1565"/>
+
 ## Test scenario
 - An SQA test scenario is a specific situation or condition to test software functionality.
 ![Test-scenario](https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/blob/main/Test-Senario/Test-Senario_page-0001.jpg)
+
 ## Test Cases
 - To document the test cases google sheets is used - **WPS Sheets**. 
 
