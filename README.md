@@ -43,11 +43,9 @@ The green boxes represent passed test cases.
 The red boxes represent failed test cases.
 ```
 <img src="https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/blob/main/Mind%20Map/OpenCart-Mind-Map-Design.png" alt="GitHub Logo" width="1565"/>
-
 ## Test scenario
 - An SQA test scenario is a specific situation or condition to test software functionality.
 ![Test-scenario](https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/blob/main/Test-Senario/Test-Senario_page-0001.jpg)
-
 ## Test Cases
 - To document the test cases google sheets is used - **WPS Sheets**. 
 
@@ -62,7 +60,7 @@ No of test cases Blocked - 42
 
 No of test cases not executed  - 0
 
-No of test cases out of scope - 1
+No of test cases out of scope - 0
 
 ```
 - Check out the sample photo of test cases
@@ -84,8 +82,7 @@ No of test cases out of scope - 1
 ![Bug-Report](https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/blob/main/Bug-Report/Bug-Report_page-0001.jpg)
 ## Test Metrics
 ![Test-Metrics](https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/blob/main/Test%20Matrics/Test-Matrics.png)
-
-## Versioning
+## Version Control
 
 [GitHub](http://github.com/) is used for versioning. 
 
