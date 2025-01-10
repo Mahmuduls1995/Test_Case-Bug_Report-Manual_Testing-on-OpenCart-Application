@@ -42,9 +42,7 @@ The green boxes represent passed test cases.
 
 The red boxes represent failed test cases.
 ```
-
-<img width="1565" alt="Shop-Lover-Test-Cases-MindMap" src="https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/tree/main/Mind%20Map">
-
+<img width="1565" alt="Open-Cart-MindMap" src="https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/tree/main/Mind%20Map"/>
 ## Test scenario
 - An SQA test scenario is a specific situation or condition to test software functionality.
 ![Test-scenario](https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/blob/main/Test-Senario/Test-Senario_page-0001.jpg)
@@ -75,7 +73,7 @@ No of test cases out of scope - 1
 ## RTM(Requirements Traceability Matrix) Report
 -Requirements Traceability Matrix (RTM) Report. It's a document that links and traces user requirements with test cases to ensure all requirements are tested and validated.
 ![Test-Case-Report-RTM](https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/blob/main/RTM(Requirements%20Traceability%20Matrix)/RTM%20(Opencart)%201_page-0001.jpg)
-## Report
+## Test Report
 ![Test-Case-Report](https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/blob/main/Test-Report/Test-Report_page-0001.jpg)
 ![Test-Case-Report](https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/blob/main/Test-Report/Test-Report1_page-0001.jpg)
 ## Bug Report
