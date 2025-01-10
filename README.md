@@ -9,7 +9,7 @@ Different test cases have been created for OpenCart web application, e-commerce 
 - [Mind Map](#mind-map)
 - [Test scenario](#test-scenario-writing)
 - [Test Cases](#test-case-writing)
-- [Report](#report)
+- [Test Report](#report)
 - [Bug Report](#bug-report)
 - [Test Metrics](#test-metrics)
 - [Author](#test-metrics)
@@ -42,7 +42,7 @@ The green boxes represent passed test cases.
 
 The red boxes represent failed test cases.
 ```
-<img src="https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/tree/main/Mind%20Map" alt="GitHub Logo" width="1565"/>
+<img src="https://github.com/Mahmuduls1995/Test_Case-Bug_Report-Manual_Testing-on-OpenCart-Application/blob/main/Mind%20Map/OpenCart-Mind-Map-Design.png" alt="GitHub Logo" width="1565"/>
 
 ## Test scenario
 - An SQA test scenario is a specific situation or condition to test software functionality.
@@ -54,9 +54,11 @@ The red boxes represent failed test cases.
 ```
 Here,
 
-No of test case passed - 54
+No of test case passed - 194
 
-No of test cases failed - 25
+No of test cases failed - 20
+
+No of test cases Blocked - 42
 
 No of test cases not executed  - 0
 
